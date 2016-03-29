@@ -9,4 +9,4 @@ basic input example
 4 2
 
 The first line represesnts (ammont of block on the court, how many blocks the player occulies and the time frame of the game)
-The secondline besically represents the block where the next ball will be fired
+The second line represents the block where the next ball will be fired
